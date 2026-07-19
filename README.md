@@ -4,6 +4,8 @@
 
 **一款专注 Windows 桌面体验的 PySide6 高清壁纸应用。**
 
+**官方 QQ 群：676129980**
+
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square&logo=windows)](#)
 [![Python](https://img.shields.io/badge/Python-3.11--3.13-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![PySide6](https://img.shields.io/badge/UI-PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)](#)
@@ -116,6 +118,6 @@ Copyright (c) 2026 JiangXinMao
 
 **Built for a quieter Windows desktop.**
 
-[Report Issues](https://github.com/JiangXinMao/jiangmaobizhi/issues) · [API Guide](docs/API_PROVIDERS.md) · [Build Guide](docs/BUILDING.md)
+**官方 QQ 群：676129980** · [Report Issues](https://github.com/JiangXinMao/jiangmaobizhi/issues) · [API Guide](docs/API_PROVIDERS.md) · [Build Guide](docs/BUILDING.md)
 
 </div>
