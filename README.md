@@ -8,7 +8,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11--3.13-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![PySide6](https://img.shields.io/badge/UI-PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)](#)
 [![Tests](https://img.shields.io/badge/tests-257%20passed-2EA44F?style=flat-square)](#-测试)
-[![License](https://img.shields.io/badge/License-Apache--2.0-D22128?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-D22128?style=flat-square)](LICENSE)
 
 <br>
 
@@ -104,11 +104,11 @@ python -m pytest -q
 
 ## 📄 许可证
 
-本项目采用 [Apache License 2.0](LICENSE) 开源。
+本项目采用 [MIT License](LICENSE) 开源。
 
-任何人都可以使用、复制、修改、分发及商业使用本项目，但必须遵守许可证要求：保留许可证、版权和归属声明，并在修改过的文件中注明变更。项目版权声明见 [NOTICE](NOTICE)。
+任何人都可以使用、复制、修改、合并、发布、分发、再许可及商业使用本项目，但所有副本或重要部分必须保留原版权声明和 MIT 许可声明。
 
-Copyright 2026 JiangXinMao
+Copyright (c) 2026 JiangXinMao
 
 ---
 
