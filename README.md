@@ -16,6 +16,23 @@
 
 </div>
 
+## 📷 产品预览
+
+<table>
+  <tr>
+    <td><img src="docs/images/screenshots/01-home.png" alt="匠猫壁纸主页"></td>
+    <td><img src="docs/images/screenshots/02-menu.png" alt="快捷菜单"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/images/screenshots/03-lock-screen.png" alt="锁屏同步"></td>
+    <td><img src="docs/images/screenshots/04-history.png" alt="壁纸历史"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/images/screenshots/05-storage.png" alt="存储设置"></td>
+    <td><img src="docs/images/screenshots/06-about.png" alt="关于页面"></td>
+  </tr>
+</table>
+
 ## ✨ 功能
 
 - 沉浸式高清壁纸浏览、收藏、历史与顺滑切换
